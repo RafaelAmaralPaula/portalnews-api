@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SZNNDqJ7LSi2cC4vaslMlE/u6bSwg6+1iFeDANTzbPA=",
+  "Source": "PortalNews.Api",
+  "BasePath": "_content/PortalNews.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

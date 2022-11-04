@@ -1,0 +1,17 @@
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Infratructure.deps.json
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Infratructure.dll
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Infratructure.pdb
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Domain.dll
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Domain.pdb
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.csproj.AssemblyReference.cache
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.AssemblyInfoInputs.cache
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.AssemblyInfo.cs
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.csproj.CoreCompileInputs.cache
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.csproj.CopyComplete
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.dll
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\refint\PortalNews.Infratructure.dll
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\PortalNews.Infratructure.pdb
+C:\dev\projects\PortalNews\PortalNews.Infratructure\obj\Debug\net6.0\ref\PortalNews.Infratructure.dll
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Util.dll
+C:\dev\projects\PortalNews\PortalNews.Infratructure\bin\Debug\net6.0\PortalNews.Util.pdb

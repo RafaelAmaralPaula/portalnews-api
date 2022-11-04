@@ -1,0 +1,12 @@
+C:\dev\projects\PortalNews\PortalNews.Domain\bin\Debug\net6.0\PortalNews.Domain.deps.json
+C:\dev\projects\PortalNews\PortalNews.Domain\bin\Debug\net6.0\PortalNews.Domain.dll
+C:\dev\projects\PortalNews\PortalNews.Domain\bin\Debug\net6.0\PortalNews.Domain.pdb
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.csproj.AssemblyReference.cache
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.AssemblyInfoInputs.cache
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.AssemblyInfo.cs
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.csproj.CoreCompileInputs.cache
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.dll
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\refint\PortalNews.Domain.dll
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\PortalNews.Domain.pdb
+C:\dev\projects\PortalNews\PortalNews.Domain\obj\Debug\net6.0\ref\PortalNews.Domain.dll
